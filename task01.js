@@ -56,6 +56,6 @@ function getMin(heights2){
     }
     return min;
 }
-const heights2=[167, 190, 120, 165, 137];
+const heights2=[167, 190, 120, 165, 137,10];
 const lowest=getMin(heights2);
 console.log(lowest);
